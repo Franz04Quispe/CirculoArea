@@ -1,5 +1,3 @@
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Scanner;
 
 /*Escriba un programa que utilice un método llamado CírculoArea, que pida al usuario el radio de un círculo
